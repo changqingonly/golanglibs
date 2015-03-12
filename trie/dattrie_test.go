@@ -3,7 +3,7 @@ package golang_trie
 import (
 	"testing"
 	"fmt"
-	"github.com/renrenxing/golang_files"
+	"github.com/renrenxing/golanglibs/files"
 )
 
 func TestDAT9(t *testing.T) {

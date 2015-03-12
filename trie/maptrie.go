@@ -2,7 +2,7 @@ package golang_trie
 
 import (
 	"fmt"
-	"github.com/renrenxing/golang_strings"
+	"github.com/renrenxing/golanglibs/strings"
 )
 
 const startLetter = 32
