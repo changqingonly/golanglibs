@@ -6,7 +6,7 @@ import (
 	"math"
 	"bytes"
 	"time"
-	"github.com/renrenxing/golang_strings"
+	"github.com/renrenxing/golanglibs/strings"
 )
 
 //const debug = true
